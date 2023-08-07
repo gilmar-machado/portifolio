@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+.formacao_container {
+    align-items: center;
+    color: #bbbbbb;
+    display: flex;
+    height: 35em;
+    justify-content: center;
+    margin: auto;
+    width: 90em;
+}
+
+.formacao_1 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.formacao_2 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.formacao_3 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

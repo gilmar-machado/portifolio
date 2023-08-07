@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.sobre {
+    align-items: center;
+    color: #fcfcfc;
+    display: flex;
+    justify-content: center;
+    margin: 12rem auto;
+}

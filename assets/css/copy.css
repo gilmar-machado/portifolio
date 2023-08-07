@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.copy {
+    color: #F28F79;
+    display: flex;
+    justify-content: center;
+}

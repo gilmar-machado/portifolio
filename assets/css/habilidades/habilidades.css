@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.habilidades {
+   display: flex;
+   flex-direction: column;
+   margin: 20% auto;
+}

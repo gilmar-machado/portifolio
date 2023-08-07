@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.formacao {
+    align-items: center;
+    color: #F28F79;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 40%;
+}

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.contato_nome {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.contato_email {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.contato_telefone {
+    font-size: 18px;
+    margin-left: 20px;
+}
+
+.contato_mensagemTexto {
+     font-size: 18px;
+     margin-left: 20px;
+} 

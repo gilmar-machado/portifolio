@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient( to bottom,#0468BF,#011526, #0477BF, #0477BF,#31201c);
+    box-sizing: border-box;
+    height: 100%;
+    margin: auto;
+    width: 90rem;
+}

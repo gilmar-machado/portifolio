@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.projetos {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.projeto_titulo {
+    color: #fcfcfc;
+    font-size: 2rem;
+    font-weight: bold;
+}

@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+.sobre_botao1 {
+    background-color: #F28F79;
+    border-radius: 30px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    height: 55px;
+    text-transform: uppercase;
+    width: 160px;
+}
+
+
+.sobre_botao2 {
+    background-color: #F28F79;
+    border-radius: 30px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    height: 55px;
+    text-transform: uppercase;
+    width: 160px;
+}
+
+
+.sobre_botao3 {
+    background-color: #F28F79;
+    border-radius: 30px;
+    font-size: 1.3rem;
+    font-weight: 600;
+    height: 55px;
+    text-transform: uppercase;
+    width: 160px;
+}

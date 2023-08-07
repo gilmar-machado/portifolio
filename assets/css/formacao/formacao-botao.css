@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.formacao_botao {
+    align-self: center;
+    border-radius: 30px;
+    background-color: #F28F79;
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    height: 40px;
+    width: 100px;
+}

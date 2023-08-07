@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.habilidade_lista {
+    display: flex;
+    justify-content: space-around;
+ }
+
+ .habilidade_item4 {
+    margin-right: 70px;
+ }
+
+ .habilidade_item5 {
+    margin-right: 60px;
+ }

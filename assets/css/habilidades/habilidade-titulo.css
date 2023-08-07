@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+.habilidade_titulo {
+    align-self: center;
+    color: #F28F79;
+    font-size: 2.0rem;
+    font-weight: 900;
+    margin-bottom: 20%;
+}
