@@ -3,6 +3,7 @@
 .cabecalho_link{
     color: #fcfcfc;
     font-size: 1.0rem;
+    font-weight: bold;
     padding-right: 2rem;
     text-decoration: none;
     text-transform: uppercase;

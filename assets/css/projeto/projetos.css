@@ -5,10 +5,12 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
+    padding-bottom: 30%;
 }
 
 .projeto_titulo {
-    color: #fcfcfc;
+    color: #F28F79;
     font-size: 2rem;
     font-weight: bold;
+    text-transform: uppercase;
 }

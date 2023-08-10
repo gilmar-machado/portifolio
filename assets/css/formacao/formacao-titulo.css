@@ -4,6 +4,7 @@
     align-self: center;
     font-size: 2.0rem;
     font-weight: bold;
+    text-transform: uppercase;
 }
 
 .titulo_bloco1 {
@@ -22,7 +23,6 @@
     font-weight: bold;
     margin-bottom: 15px;
     text-transform: uppercase;
-    text-shadow: black;
 }
 
 .titulo_bloco3 {
@@ -31,5 +31,4 @@
     font-weight: bold;
     margin-bottom: 15px;
     text-transform: uppercase;
-    text-shadow: black;
 }

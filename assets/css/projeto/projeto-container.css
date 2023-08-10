@@ -3,3 +3,13 @@
 .projeto_container {
     display: flex;
 }
+
+.projeto1 {
+    align-items: flex-start;
+    margin: 10rem auto 50px auto
+}
+
+.projeto2 {
+    align-items: flex-end;
+    margin: 25rem auto 50px 50px;
+}
