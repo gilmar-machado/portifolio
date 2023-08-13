@@ -1,16 +1,16 @@
 @charset "UTF-8";
 
-.formacao_container {
+.formacao_containers {
     align-items: center;
     color: #bbbbbb;
     display: flex;
     height: 35em;
-    justify-content: center;
+   
     margin: auto;
     width: 90em;
 }
 
-.formacao_1 {
+.formacao_container1 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -18,7 +18,7 @@
     margin-left: 50px;
 }
 
-.formacao_2 {
+.formacao_container2 {
     align-items: center;
     display: flex;
     flex-direction: column;
@@ -26,7 +26,7 @@
     margin-left: 50px;
 }
 
-.formacao_3 {
+.formacao_container3 {
     align-items: center;
     display: flex;
     flex-direction: column;

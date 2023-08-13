@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
-.cabecalho_navegacao {
+.cabecalho_container {
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-between;
     padding-top: 3rem;
 }

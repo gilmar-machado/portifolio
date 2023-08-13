@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.texto_comunicado {
+    color: #fcfcfc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.0rem;
+    font-weight: bolder;
+    text-transform: uppercase;
+    text-shadow: 1px 1px #fcfcfc;
+}   

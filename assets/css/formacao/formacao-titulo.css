@@ -7,8 +7,9 @@
     text-transform: uppercase;
 }
 
-.titulo_bloco1 {
+.formacao_titulo1 {
     color: #F28F79;
+    
     font-size: 1.0rem;
     font-weight: bold;
     margin-bottom: 15px;
@@ -17,7 +18,7 @@
     text-transform: uppercase;
 }
 
-.titulo_bloco2 {
+.formacao_titulo2 {
     color: #F28F79;
     font-size: 1.0rem;
     font-weight: bold;
@@ -25,7 +26,7 @@
     text-transform: uppercase;
 }
 
-.titulo_bloco3 {
+.formacao_titulo3 {
     color: #F28F79;
     font-size: 1.0rem;
     font-weight: bold;
