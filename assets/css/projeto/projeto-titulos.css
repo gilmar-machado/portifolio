@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+.projeto_destaqueTitulo1 {
+    background-color: #F28F79;
+    color: #fcfcfc;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 8px 0 6px 0;
+    text-align: center;
+    width: 300px;
+}
+
+.projeto_texto1 {
+    color: #fcfcfc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 2rem;
+}
+
+.projeto_titulo1 {
+    font-size: 2rem;
+    font-weight: bolder;
+    
+}
+
+.projeto_destaqueTitulo2 {
+    background-color: #F28F79;
+    color: #fcfcfc;
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding: 8px 0 6px 0;
+    text-align: center;
+    width: 300px;
+}
+
+.projeto_texto2 {
+    color: #fcfcfc;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 2rem;
+}
+
+.projeto_titulo2 {
+    font-size: 2rem;
+    font-weight: bolder;
+}
