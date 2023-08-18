@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.cabecalho_link{
+.cabecalho_link {
     color: #fcfcfc;
     font-size: 1.0rem;
     font-weight: bold;
@@ -10,5 +10,6 @@
 }
 
 .cabecalho_link:hover {
+    color: #F28F79;
     text-decoration: underline;
 }

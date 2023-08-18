@@ -20,7 +20,7 @@
 
 .projeto_container2 {
     display: flex;
-    justify-content: flex-end;
+    flex-direction: row-reverse;
     margin: 10rem;
     width: 90rem;
 }

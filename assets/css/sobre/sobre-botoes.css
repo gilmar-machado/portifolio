@@ -10,7 +10,6 @@
     width: 160px;
 }
 
-
 .sobre_botao2 {
     background-color: #F28F79;
     border-radius: 30px;
@@ -21,7 +20,6 @@
     width: 160px;
 }
 
-
 .sobre_botao3 {
     background-color: #F28F79;
     border-radius: 30px;
@@ -30,4 +28,19 @@
     height: 55px;
     text-transform: uppercase;
     width: 160px;
+}
+
+.sobre_botao1:hover {
+    color: #fcfcfc;
+    background-color: #011526;
+}
+
+.sobre_botao2:hover {
+    color: #fcfcfc;
+    background-color: #011526;
+}
+
+.sobre_botao3:hover {
+    color: #fcfcfc;
+    background-color: #011526;
 }
